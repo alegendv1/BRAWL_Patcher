@@ -1,0 +1,13 @@
+{
+  "Nickname": "BRAWL_Patcher",
+  "Visibility": "Visible",
+  "OneLineDescription": "INNR Patcher",
+  "LongDescription": "Patches armor and weapon records that are missing INNR. Load after ECO ",
+  "PreferredAutoVersioning": "Default",
+  "RequiredMods": [
+    "Broken Weapon System.esp"
+  ],
+  "TargetedReleases": [
+    "Fallout4"
+  ]
+}
